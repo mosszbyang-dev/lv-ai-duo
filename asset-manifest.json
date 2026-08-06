@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lv-ai-duo/static/css/main.98f93001.css",
-    "main.js": "/lv-ai-duo/static/js/main.b1796e99.js",
+    "main.css": "/lv-ai-duo/static/css/main.29d96d94.css",
+    "main.js": "/lv-ai-duo/static/js/main.a8ffe1dd.js",
     "static/js/453.3cf40e10.chunk.js": "/lv-ai-duo/static/js/453.3cf40e10.chunk.js",
     "index.html": "/lv-ai-duo/index.html",
-    "main.98f93001.css.map": "/lv-ai-duo/static/css/main.98f93001.css.map",
-    "main.b1796e99.js.map": "/lv-ai-duo/static/js/main.b1796e99.js.map",
+    "main.29d96d94.css.map": "/lv-ai-duo/static/css/main.29d96d94.css.map",
+    "main.a8ffe1dd.js.map": "/lv-ai-duo/static/js/main.a8ffe1dd.js.map",
     "453.3cf40e10.chunk.js.map": "/lv-ai-duo/static/js/453.3cf40e10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98f93001.css",
-    "static/js/main.b1796e99.js"
+    "static/css/main.29d96d94.css",
+    "static/js/main.a8ffe1dd.js"
   ]
 }
